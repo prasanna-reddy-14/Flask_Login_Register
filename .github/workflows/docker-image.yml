@@ -24,6 +24,6 @@ jobs:
       with:
           context: .
           push: true
-          tags: prasannakatta/prasannareposiy:tag1
+          tags: prasannakatta/prasannarepositoryy:tag1
 
    
